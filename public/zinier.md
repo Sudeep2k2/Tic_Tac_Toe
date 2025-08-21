@@ -83,3 +83,65 @@ Based on interview trends for Java Full Stack roles at startups like Zinier:
 - Show enthusiasm to learn and adapt.
 
 ***
+
+
+Here are some frequently asked coding questions for Java Full Stack Developer freshers that you can practice for your Zinier interview:
+
+### Frequently Asked Coding Questions
+
+1. **Reverse a String**  
+   Write a program to reverse a given string.
+
+2. **Find Duplicate Characters in a String**  
+   Identify and print duplicate characters from a string.
+
+3. **Check if a String is Palindrome**  
+   Verify whether the input string reads the same backward as forward.
+
+4. **Factorial of a Number**  
+   Calculate the factorial of a non-negative integer using recursion or iteration.
+
+5. **Fibonacci Series**  
+   Print the Fibonacci sequence up to a certain number (using recursion or iteration).
+
+6. **Find Largest and Smallest Number in an Array**  
+   Given an integer array, find the maximum and minimum elements.
+
+7. **Count Vowels and Consonants in a String**  
+   Write a program to count the number of vowels and consonants in a string.
+
+8. **Check if Two Strings are Anagrams**  
+   Write a function to check if two strings are anagrams of each other.
+
+9. **Remove Duplicates from an Array**  
+   Remove duplicate elements from an array and return the unique elements.
+
+10. **Find Prime Numbers within a Range**  
+    Print all prime numbers between two given numbers.
+
+11. **Sum of Elements in an Array**  
+    Calculate the sum of all elements in an integer array.
+
+12. **Reverse a Linked List**  
+    Write a function to reverse a singly linked list.
+
+13. **Find Missing Number in an Array**  
+    Given an array containing n-1 numbers from 1 to n, find the missing number.
+
+14. **Implement Binary Search**  
+    Write a program to perform binary search on a sorted array.
+
+15. **Balanced Parentheses Check**  
+    Check if the input string contains balanced parentheses using a stack.
+
+***
+
+### Bonus: Practice Platforms  
+You can find these problems and more on platforms like:
+- LeetCode  
+- HackerRank  
+- GeeksforGeeks  
+- CodeSignal
+
+Practicing these will build your problem-solving skills and help you ace the coding portion of your interview.
+
